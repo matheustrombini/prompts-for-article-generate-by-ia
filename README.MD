@@ -41,11 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 5 headlines para o assunto sobre erros aos estudar Python                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos tech e escreva o artigo atendendo as regras abaixo {REGRAS}> Título do Artigo: Evite armadilhas: Os 5 erros mais comuns ao estudar Python e como evitá-los! > No máximo 5 linhas por bloco de explicação > Me explique de maneira informal, como se eu fosse uma criança de 10 anos > Os blocos que serão criados estão abaixo:
-- Breve introdução sobre a linguagem python
-- Citar os 5 erros que a maioria dos iniciantes em python comete
-- Faça uma call to action para minhas redes sociais
-- Coloque 3 hashtags que façam sentido |
+| conteúdo | Comporte-se como um escritor de artigos tech e escreva o artigo atendendo as regras abaixo {REGRAS}> Título do Artigo: Evite armadilhas: Os 5 erros mais comuns ao estudar Python e como evitá-los! > No máximo 5 linhas por bloco de explicação > Me explique de maneira informal, como se eu fosse uma criança de 10 anos > Os blocos que serão criados estão abaixo: - Breve introdução sobre a linguagem python - Citar os 5 erros que a maioria dos iniciantes em python comete - Faça uma call to action para minhas redes sociais - Coloque 3 hashtags que façam sentido |
 
 
 Google：
@@ -76,16 +72,15 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/matheustrombini/"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/matheus-trombini-pilla/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/trombini_jw/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
