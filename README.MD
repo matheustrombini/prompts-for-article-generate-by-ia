@@ -41,7 +41,11 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 5 headlines para o assunto sobre erros aos estudar Python                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Comporte-se como um escritor de artigos tech e escreva o artigo atendendo as regras abaixo {REGRAS}> Título do Artigo: Evite armadilhas: Os 5 erros mais comuns ao estudar Python e como evitá-los! > No máximo 5 linhas por bloco de explicação > Me explique de maneira informal, como se eu fosse uma criança de 10 anos > Os blocos que serão criados estão abaixo:
+- Breve introdução sobre a linguagem python
+- Citar os 5 erros que a maioria dos iniciantes em python comete
+- Faça uma call to action para minhas redes sociais
+- Coloque 3 hashtags que façam sentido |
 
 
 Google：
@@ -59,17 +63,7 @@ Google：
 
 ## 📚 Materiais
 
-Comporte-se como um escritor de artigos tech e escreva o artigo atendendo as regras abaixo
-
-{REGRAS}
-> Título do Artigo: Evite armadilhas: Os 5 erros mais comuns ao estudar Python e como evitá-los!
-> No máximo 5 linhas por bloco de explicação
-> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
-> Os blocos que serão criados estão abaixo:
-- Breve introdução sobre a linguagem python
-- Citar os 5 erros que a maioria dos iniciantes em python comete
-- Faça uma call to action para minhas redes sociais
-- Coloque 3 hashtags que façam sentido
+- Prompt ChatGPT
 
 ## 🛠️ Instruções de execução
 
