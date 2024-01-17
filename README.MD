@@ -72,11 +72,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/matheustrombini/"
+      src="https://www.google.com/search?q=matheus+trombini+pilla&sca_esv=599184041&rlz=1C1FCXM_pt-PTBR1070BR1070&tbm=isch&sxsrf=ACQVn09QrXJNhEMWM71AN6koeRVMJFMB7A:1705513237816&source=lnms&sa=X&ved=2ahUKEwjenMz1--SDAxX5IbkGHfA1AtIQ_AUoAXoECAEQAw&biw=1366&bih=599&dpr=1#imgrc=bb8ieLGF6DgXeM"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspMatheus Trombini<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/matheustrombini/">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/matheus-trombini-pilla/">LinkedIn</a>
 &nbsp;|&nbsp;
