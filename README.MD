@@ -12,13 +12,6 @@
 
 -------
 
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
-
 # Projeto artigo técnico gerado por I.A.s
 
 
@@ -47,7 +40,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
+|  título  | Crie 5 headlines para o assunto sobre erros aos estudar Python                                                                                                                                                                                                    |
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
@@ -66,7 +59,17 @@ Google：
 
 ## 📚 Materiais
 
-- prompts utilizados
+Comporte-se como um escritor de artigos tech e escreva o artigo atendendo as regras abaixo
+
+{REGRAS}
+> Título do Artigo: Evite armadilhas: Os 5 erros mais comuns ao estudar Python e como evitá-los!
+> No máximo 5 linhas por bloco de explicação
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
+> Os blocos que serão criados estão abaixo:
+- Breve introdução sobre a linguagem python
+- Citar os 5 erros que a maioria dos iniciantes em python comete
+- Faça uma call to action para minhas redes sociais
+- Coloque 3 hashtags que façam sentido
 
 ## 🛠️ Instruções de execução
 
